@@ -8,4 +8,4 @@ User-agent: Google-adstxt
 
 Disallow:
 
-Sitemap: https://www.appfusion.tech/sitemap.xml
+Sitemap: 
